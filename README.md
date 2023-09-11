@@ -3,7 +3,7 @@
 <b>Google Cloud Platform</b> - https://nlp-sms-spam-detection.wm.r.appspot.com/ <br>
 <b>Heroku</b> - https://spam-sms-detect-nlp.herokuapp.com/ 
 
-<img src="https://github.com/Tejas-TA/NLP-SMS-Spam-Detection/blob/main/SMS%20NLP.gif" width = "100%" height="100%">
+<img src="https://github.com/nainavangani/Transformer-SMS-Spam-Detection/blob/master/SMS%20NLP.gif" width = "100%" height="100%">
 <hr>
 
 <h3>Dataset</h3> https://www.kaggle.com/uciml/sms-spam-collection-dataset <hr>
