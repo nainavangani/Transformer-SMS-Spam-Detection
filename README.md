@@ -45,6 +45,3 @@
 13. Created a flask server and deployed the code<br>
 14. Web-app working successfully in Google Cloud Platform and Heroku<hr>
          
-Email - tejasta@gmail.com <br>
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
-Blogs - https://tejasta.medium.com/ <hr>
